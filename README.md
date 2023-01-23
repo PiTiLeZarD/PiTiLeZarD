@@ -13,7 +13,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PiTiLeZarD&count_private=true&show_icons=true&theme=buefy" alt="PiTiLeZarD's GitHub Stats">
 
 - 📦 JavaScript/Typescript: senior
-- 🦈 Docker: senior
+- 🦈 Docker/Swarm: senior
 - 🐍 Python: senior
 - 🔭 I’m currently working on [memup](https://github.com/PiTiLeZarD/memup)
 - 🌱 I’m currently learning japanese
