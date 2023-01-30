@@ -17,5 +17,5 @@
 - 🐍 Python: senior
 - 🔭 I’m currently working on [memup](https://github.com/PiTiLeZarD/memup)
 - 🌱 I’m currently learning japanese
-- ⚡ Fun fact: Got my first computer thanks to a game I coded in a shop that kickstarted sales on previously ignored Amstrads. My mom was convinced I stole it and asked me to return it! :)
+- ⚡ Fun fact: Got my first computer thanks to a game I coded in a shop that kickstarted sales on previously ignored Amstrads. My mom was convinced I stole it and asked me to return it, I was 12! :)
 - 💬 Ask me about anything
