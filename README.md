@@ -15,7 +15,7 @@
 - 📦 JavaScript/Typescript: senior
 - 🦈 Docker/Swarm: senior
 - 🐍 Python: senior
-- 🔭 I’m currently working on [memup](https://github.com/PiTiLeZarD/memup)
-- 🌱 I’m currently learning japanese
+- 🔭 I’m currently working on [down-the-log](https://github.com/PiTiLeZarD/down-the-log)
+- 🌱 I’m currently learning japanese and trying to manage my addiction to puzzles on codingame.com ;)
 - ⚡ Fun fact: Got my first computer thanks to a game I coded in a shop that kickstarted sales on previously ignored Amstrads. My mom was convinced I stole it and asked me to return it, I was 12! :)
 - 💬 Ask me about anything
